@@ -25,7 +25,7 @@ This application monitors a set of HTTP endpoints specified in a YAML configurat
 ```
 bash
 git clone <repository-url>
-cd health-check
+cd after-hours-fun
 ```
 
 2. Create and activate a virtual environment:
